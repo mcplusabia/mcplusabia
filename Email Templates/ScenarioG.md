@@ -1,4 +1,4 @@
-Hi **Jane**,
+Hi **Jose**,
 
 We are grateful for the time you spent on your application on CodePath. Your credentials were impressive and we would definitely love to have you onboard. 
 However, we regret to inform you that we cannot process your application due to the following reason/s:
