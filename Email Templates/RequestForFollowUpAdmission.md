@@ -2,7 +2,7 @@ Hi **[Name]**,
 
 Thank you for getting in touch with us regarding the status of your application.
 
-The process for admission usually takes 3 - 4 weeks and we understand how frustrating it is not to received any update. We sincerely apologize for the said matter. 
+The process for admission usually takes 3 - 4 weeks and we understand how frustrating it is not to received any update. We sincerely apologize for the inconvenience. 
 Based on our records, we would like to inform you that you admission status is:
 
 - **[Put admission status here]**
