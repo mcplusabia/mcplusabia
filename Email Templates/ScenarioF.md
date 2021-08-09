@@ -9,7 +9,7 @@ Below are the details of the requesting applicant:
 
 | Candidate ID | Name | Applicant Type |
 | ------------ | ---- | -------------- |
-|*[Input Id # ]*| *[Input Name]*| *[Input Applicant Type]*|
+|*[Input Id # ]*| *Marie*| *[Input Applicant Type]*|
 
 I am hoping for your favorable and fast response regarding this matter. Thank you very much for your usual support! Have a nice day!
 
