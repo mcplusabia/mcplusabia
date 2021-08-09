@@ -1,4 +1,4 @@
-Hi **[Name]**,
+Hi **Connie**,
 
 A pleasant day to you! I hope you are doing well.
 
@@ -9,7 +9,7 @@ Below are the details of the requesting applicant:
 
 | Candidate ID | Name | Applicant Type |
 | ------------ | ---- | -------------- |
-|*[Input Id # ]*| *Marie*| *[Input Applicant Type]*|
+|*33624*| *Marie*| *New Tech Fellow*|
 
 I am hoping for your favorable and fast response regarding this matter. Thank you very much for your usual support! Have a nice day!
 
