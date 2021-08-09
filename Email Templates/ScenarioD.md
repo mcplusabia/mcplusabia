@@ -1,4 +1,4 @@
-Hi **[Name}**,
+Hi **Jake**,
 
 We would like to express our gratitude for your interest in our Android University course. We noticed that you still have not completed you application so we are here to help you with it.
 
