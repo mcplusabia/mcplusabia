@@ -1,4 +1,4 @@
-Hi **Maria*,
+Hi **Maria**,
 
 Thank you for getting in touch with us regarding the status of your application.
 
